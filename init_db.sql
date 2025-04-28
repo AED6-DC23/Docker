@@ -1,0 +1,2 @@
+CREATE USER myuser WITH PASSWORD 'mypassword';
+CREATE DATABASE mydb OWNER myuser;
